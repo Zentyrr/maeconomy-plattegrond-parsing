@@ -9,10 +9,18 @@
     "web": "expo start --web"
   },
   "dependencies": {
+    "@react-native-documents/picker": "^12.0.1",
+    "@react-native-documents/viewer": "^4.0.0",
     "expo": "~54.0.33",
+    "expo-document-picker": "~14.0.8",
     "expo-status-bar": "~3.0.9",
     "react": "19.1.0",
-    "react-native": "0.81.5"
+    "react-dom": "19.1.0",
+    "react-native": "0.81.5",
+    "react-native-document-picker": "^9.3.1",
+    "react-native-fs": "^2.20.0",
+    "react-native-web": "^0.21.0",
+    "react-pdf": "^10.4.1"
   },
   "devDependencies": {
     "@types/react": "~19.1.0",
